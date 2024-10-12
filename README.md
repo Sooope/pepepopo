@@ -1,3 +1,3 @@
 # pepepopo
-popo
-This is a personal developing repository
+## popo
+**This is a _personal developing_ repository**
